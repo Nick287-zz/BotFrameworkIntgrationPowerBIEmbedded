@@ -2,7 +2,8 @@
 Publish Project on Github
 This is a reference project for how to intgration an Bot Framework project with Power BI Embedded in this Project Bot used Card and Action model give more interactive！
 And used Bot Framework link to power BI Embedded page make the user search BI chart more simple and more accurately.
-                #region HeroCard
+This PowerBI Embedded project is adjusted for China Azure Mooncake version. for more infomation please reference my bolg: http://www.cnblogs.com/sonic1abc/p/6602530.html
+                
 
                 ConnectorClient connector = new ConnectorClient(new Uri(activity.ServiceUrl));
 
